@@ -1,0 +1,35 @@
+.content {
+    display: flex;
+}
+
+.content .sidebar {
+    padding: 30px 50px;
+    max-width: 500px;
+    background-color: #aeaeff;
+}
+
+.content .sidebar nav li {
+    list-style-type: none;
+    margin: 20px;
+}
+
+.content .displayContent {
+    padding: 25px;
+    text-align: center;
+}
+
+h1{
+    color: #2e93ff;
+}
+
+h3{
+    color: #a482ff;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    margin: 20px;
+}
